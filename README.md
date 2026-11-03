@@ -20,7 +20,7 @@ Copied with Git history from frontend commit `3513a9181f049815cc04dcc7fbcb001752
 - 85 demo games, 50 providers, 16 hero banners, 12 exclusive covers, 6 promotion posters, and the remaining hero promotion detail records.
 - 131 discovered routes, mobile navigation, search, favorites, account pages, and local wallet/reward/inbox/referral/support/history simulations.
 - Portrait Casino, Promotion, and Exclusive covers and account overflow fixes.
-- Source, documentation, dependency lockfile, Docker/Railway configuration, and validation workflow.
+- Source, documentation, dependency lockfile, Railway configuration, and validation workflow.
 
 ## Run
 
