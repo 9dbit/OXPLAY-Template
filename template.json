@@ -1,0 +1,24 @@
+{
+  "id": "oxplay",
+  "name": "OXPLAY Template",
+  "version": "1.0.0",
+  "releaseTag": "v1.0.0",
+  "repository": "https://github.com/9dbit/OXPLAY-Template",
+  "sourceRepository": "https://github.com/9dbit/Agent-Frontend-Ui",
+  "sourceCommit": "3513a9181f049815cc04dcc7fbcb001752a1aad0",
+  "workingFrontendRepository": "https://github.com/9dbit/Agent-Frontend-Ui",
+  "engineRepository": "https://github.com/9dbit/Playground",
+  "snapshotDate": "2026-11-03",
+  "mode": "frontend-demo",
+  "brandPreserved": "GOBI88 reference UI",
+  "assetManifest": "docs/reference/asset-copy-manifest.json",
+  "catalog": "public/data.json",
+  "responsivePreview": "/preview/",
+  "validatedLayoutWidths": [
+    360,
+    393,
+    768,
+    1440
+  ],
+  "backendIntegrated": false
+}

@@ -1,5 +1,5 @@
 export const config = {
-  templateName:'Playground', brandName:'GOBI88', mode:'demo', accent:'#c62d29',
+  templateName:'OXPLAY Template', templateId:'oxplay', templateVersion:'1.0.0', brandName:'GOBI88', mode:'demo', accent:'#c62d29',
   announcement:'Selamat datang di GOBI88! Jelajahi seluruh permainan, provider dan promosi favorit Anda.',
   demoNotice:'Playground • Pratinjau frontend. Saldo dan transaksi adalah simulasi.',
   apiBase:null,
